@@ -1,0 +1,32 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+ASS2_nlp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+
+# Reports / outputs
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# NLP ASS pdf 
+NLP_Assignment2.pdf
